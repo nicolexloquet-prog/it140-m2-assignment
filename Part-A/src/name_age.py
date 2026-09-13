@@ -1,20 +1,19 @@
-"""TODO: Replace with a one-line summary of the program's purpose (<73 chars).
+"""This program calculates a person's birth year from their age.
 
 Input:
-    TODO: Replace with a major input, including its type and source.
-    TODO: Replace with another major input, or delete this TODO line.
-    TODO: Replace with another major input, or delete this TODO line.
+    The name is entered by the user as a string.
+    The age is entered by the user as an integer. 
 
 Process:
-    TODO: Replace with a major processing step.
+    The person's age is subtracted from the current year to calculate their birth year.
 
 Output:
-    TODO: Replace with a major output, including its type and destination.
+    A string containing the person's name and birth year is displayed in the terminal/screen.
 
 Typical usage example:
-    TODO: Replace with the input prompt and original name-input example.
-    TODO: Replace with the input prompt and original age-input example.
-    TODO: Replace with the resulting output from those inputs.
+    What is your name? Nicole
+    How old are you? 28
+    Hello Nicole! You were born in 1998.
 """
 
 # === Imports ===
@@ -29,21 +28,16 @@ def main() -> None:
     """Run the name-age program."""
 
     # Get user input.
-    # TODO: Replace with code to get user's name as a string. See zyBooks 1.3.
-    # TODO: Replace with code to get user's age as an integer. See zyBooks 2.6.
+    name = input("What is your name?\n")
+    age = int(input("How old are you?\n"))
 
-    # Calculate user's approximate birth year.
-    # TODO: Replace with code to process data. See zyBooks 1.16 & 1.17.
-
-    # Output personalized message with user's name and birth year.
-    # TODO: Replace with code to output formatted results. zyBooks 1.3 & 2.7.
+    birth_year = CURRENT_YEAR - age
+    
+    print(f"Hello {name}! You were born in {birth_year}.")
+    
 
 
 # === Main Guard ===
 if __name__ == "__main__":
     main()
 
-
-# === References ===
-# TODO: Replace with an APA-style reference for a source you used, or delete.
-# TODO: Replace with another APA-style reference, or delete this TODO line.
