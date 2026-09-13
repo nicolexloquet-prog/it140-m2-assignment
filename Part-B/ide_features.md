@@ -2,34 +2,23 @@
 
 ## Introduction
 
-> Write a short reflection on your experience using the course IDE to complete your first programming assignment. Briefly describe what it was like to write, run, and test code in an IDE for the first time. Introduce the three IDE features you selected and briefly explain why learning to use IDE features can help you as a beginning programmer. Save specific examples for the feature sections below. Delete these instructions when done.
+This assignment was my first time using an IDE to write, run, and test a Python program. Since I am new to coding, using Visual Studio Code (VS Code) and learning Python at the same time did have its challenges at first. As I worked through the assignment, I started to understand how the different features in VS Code can make coding easier and allow me to learn while doing. The three features I found the most helpful were the integrated terminal, syntax highlighting, and code completion. These features helped me better understand my code, fix mistakes, and test my program as I was working on it.
 
-TODO: Replace with your introduction here.
+## Feature 1 – Integrated Terminal
 
-## Feature 1 – TODO: Replace with name of your Feature1
+One feature that I found helpful was the integrated terminal. The integrated terminal allowed me to run my Python program and see the results without having to leave VS Code. While working on my name_age program, I was able to enter my name and age into the terminal and immediately see the output from my code. I also used the terminal to run my program again after making changes, which made it easier to see if I had fixed something correctly. Having everything in one place made the process of writing, testing, and making changes to my code much easier and more organized.
 
-> In one paragraph, identify the first feature you selected, explain what it does, and describe how it helped you while developing or testing your program. Include specific details about how it improved your workflow, made coding easier, or helped you find and fix errors more efficiently. Delete these instructions when done.
+## Feature 2 – Syntax Highlighting
 
-TODO: Replace with your Feature 1 paragraph here.
+Another feature that I found useful was syntax highlighting. Syntax highlighting uses different colors to separate parts of the code, which made my Python code easier to read and understand. While working on my name_age program, I noticed that the text inside quotation marks was displayed in orange, while functions like "input()" or "print()" were displayed in purple. Other parts of my code, such as "int" and "datetime", were also color coded in green, which helped me visually differentiate between parts of my code. This made it easier for me to follow what I had written and notice when the code was incorrect. I found this especially useful while learning Python because the colors helped me become more familiar with what the different parts of the code mean and how they are used.
 
-## Feature 2 – TODO: Replace with name of your Feature2
 
-> Write one paragraph explaining your second feature. Describe how it functions, what benefits it provided while coding, and why it might be valuable for beginning programmers. Connect the feature to your personal experience using it in this project. Delete these instructions when done.
+## Feature 3 – Code Completion
 
-TODO: Replace with your Feature 2 paragraph here.
+The third feature that I found helpful was code completion. While I was working on my name_age program, VS Code would give me suggestions based on what I had already started typing. This helped me when I was writing things like "print()" or "input()" because I could select from the suggestions instead of having to type everything on my own. I also found this feature useful because it saved me time and made the process of writing my code more efficient. It also reduced typing mistakes because VS code could suggest the correct function as I was typing it. Overall, code completion made my writing faster and more efficient while also helping me become more familiar with Python.
 
-## Feature 3 – TODO: Replace with name of your Feature3
-
-> In a single paragraph, identify and explain a third IDE feature. Discuss how it enhanced your programming experience or supported best practices such as readability, debugging, or organization. Give a brief, real example of how you used it. Delete these instructions when done.
-
-TODO: Replace with your Feature 3 paragraph here.
 
 ## Conclusion
 
-> Summarize what you learned from using your IDE in this assignment. Reflect on how these features will support your future programming work and improve your confidence as a new programmer. Delete these instructions when done.
+Using VS Code for this assignment helped me become more comfortable with writing, running, and testing Python code. The integrated terminal, syntax highlighting, and code completion each made different parts of the process easier and allowed me to have a better understanding of what I was doing as I worked through my program. Being able to run and test my code in the terminal helped me see the results of the changes I made, while syntax highlighting made my code easier to read and code completion made writing my code faster and more efficient. As I continue learning Python, these features will help me become more confident with writing code, identifying and correcting mistakes, and testing programs on my own. 
 
-TODO: Replace with your conclusion here.
-
-## References
-
-TODO: Replace with your source citations here in APA style, if any. Delete section heading and this text if not used.
